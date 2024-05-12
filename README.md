@@ -1,4 +1,4 @@
-# tmp24-content
+# TMP '24 Content Creation Wiki
 **Recommended Course:** [Hubspot Content Marketing Certification Course](https://academy.hubspot.com/courses/content-marketing)
 
 ## Week 1: Intro to content creation + content marketing principles + personas 
