@@ -18,3 +18,4 @@
 - **Presentation:** [Content Planning](https://www.canva.com/design/DAGE-LCcri8/7guxtG0Miz2o69fSKfj1sw/view?utm_content=DAGE-LCcri8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [Content Planning: How to Create a Content Plan, Step by Step](https://www.semrush.com/blog/content-planning/)
 - [How to Generate Effective Content Ideas](https://blog.hubspot.com/customers/how-to-generate-effective-content-ideas)
+- [UTM Codes: How to Create UTM Tracking URLs on Google Analytics](https://blog.hubspot.com/marketing/what-are-utm-tracking-codes-ht)
