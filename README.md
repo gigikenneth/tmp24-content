@@ -19,3 +19,6 @@
 - [Content Planning: How to Create a Content Plan, Step by Step](https://www.semrush.com/blog/content-planning/)
 - [How to Generate Effective Content Ideas](https://blog.hubspot.com/customers/how-to-generate-effective-content-ideas)
 - [UTM Codes: How to Create UTM Tracking URLs on Google Analytics](https://blog.hubspot.com/marketing/what-are-utm-tracking-codes-ht)
+
+**Activity:**
+- Create a Simple Content Plan & Calendar based on your personas from Week 1
