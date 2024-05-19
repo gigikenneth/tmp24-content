@@ -22,3 +22,9 @@
 
 **Activity:**
 - Create a Simple Content Plan & Calendar based on your personas from Week 1
+
+## Week 3: Tips, tools, and techniques
+- **Presentation:** [Tips, Tools, and Techniques](https://www.canva.com/design/DAGFqrkGpNg/S-51ZFwzH5yxohPlTiISSQ/view?utm_content=DAGFqrkGpNg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+**Activity:**
+- Create an account with a writing platform such as Medium and write your first blog post based on your content plan and calendar (Week 2) for your user persona (Week 1).
