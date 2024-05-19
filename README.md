@@ -1,4 +1,8 @@
 # TMP '24 Content Creation Wiki
+
+![image](https://github.com/gigikenneth/tmp24-content/assets/52600214/6b4dca29-8159-4085-9eef-5e1ffb9f6d8e)
+
+
 **Recommended Course:** [Hubspot Content Marketing Certification Course](https://academy.hubspot.com/courses/content-marketing)
 
 ## Week 1: Intro to content creation + content marketing principles + personas 
