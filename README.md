@@ -32,3 +32,9 @@
 
 **Activity:**
 - Create an account with a writing platform such as Medium and write your first blog post based on your content plan and calendar (Week 2) for your user persona (Week 1).
+
+## Week 4: Visual content creation + repurposing content
+- **Presentation:** [Visual Content Creation + Repurposing Content](https://www.canva.com/design/DAGGRPy25b0/T1yFSizPc6nnvrA6a0plPQ/view?utm_content=DAGGRPy25b0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+**Activity:**
+- Create a graphic based on the content you created for Week 3. This could be an infographic, social media graphic, etc.
