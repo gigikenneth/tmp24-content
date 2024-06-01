@@ -39,3 +39,10 @@
 
 **Activity:**
 - Create a graphic based on the content you created for Week 3. This could be an infographic, social media graphic, etc.
+
+## Week 5: Content optimization & SEO
+- **Presentation:** [Content Optimization & SEO](https://www.canva.com/design/DAGG42340gU/uQlJqxlbBbj4yeuVF5OErQ/view?utm_content=DAGG42340gU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+**Activity:**
+- Create a new blog post or optimize an already existing one (from Week 3, for example) for SEO using the principles discussed. Observe how it performs in a few weeks. 
+
