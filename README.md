@@ -46,3 +46,8 @@
 **Activity:**
 - Create a new blog post or optimize an already existing one (from Week 3, for example) for SEO using the principles discussed. Observe how it performs in a few weeks. 
 
+## Week 6: Content distribution & promotion (B2C + B2B)
+- **Presentation:** [Content Distribution & Promotion (B2C + B2B)](https://www.canva.com/design/DAGHpKMQjMY/smDMDMvUcDU06JFBuclWvg/view?utm_content=DAGHpKMQjMY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+**Activity:**
+- Create a simple content distribution checklist consisting of platforms that will be useful for you, such as social media platforms, communities,  platforms useful for content syndication (such as a content aggregator), relevant events, etc. 
