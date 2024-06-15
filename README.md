@@ -2,7 +2,6 @@
 
 ![image](https://github.com/gigikenneth/tmp24-content/assets/52600214/6b4dca29-8159-4085-9eef-5e1ffb9f6d8e)
 
-
 **Recommended Course:** [Hubspot Content Marketing Certification Course](https://academy.hubspot.com/courses/content-marketing)
 
 ## Week 1: Intro to content creation + content marketing principles + personas 
@@ -50,4 +49,10 @@
 - **Presentation:** [Content Distribution & Promotion (B2C + B2B)](https://www.canva.com/design/DAGHpKMQjMY/smDMDMvUcDU06JFBuclWvg/view?utm_content=DAGHpKMQjMY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 **Activity:**
-- Create a simple content distribution checklist consisting of platforms that will be useful for you, such as social media platforms, communities,  platforms useful for content syndication (such as a content aggregator), relevant events, etc. 
+- Create a simple content distribution checklist consisting of platforms that will be useful for you, such as social media platforms, communities,  platforms useful for content syndication (such as a content aggregator), relevant events, etc.
+
+## Week 7: Content measurement and analysis
+- **Presentation:** [Content Measurement and Analysis](https://www.canva.com/design/DAGIOdfGav4/pEu3dIMr_uvE5oynwUT8Vg/view?utm_content=DAGIOdfGav4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+**Activity:**
+- Pick metrics you’d like to track for your content for social media, your blog, etc, and why these metrics are relevant. Put this together in a Google Doc. 
