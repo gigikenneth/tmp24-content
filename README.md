@@ -2,6 +2,8 @@
 
 ![image](https://github.com/gigikenneth/tmp24-content/assets/52600214/6b4dca29-8159-4085-9eef-5e1ffb9f6d8e)
 
+_Hi Future Me or Fellow Human, This was a content creation curriculum for 8 weeks that I created for Techrity's Mentorship Program that I volunteered for from 7 May to 25 June 2024. I know in a few months, I will cringe at the quality, but it was a fun experience :)_
+
 **Recommended Course:** [Hubspot Content Marketing Certification Course](https://academy.hubspot.com/courses/content-marketing)
 
 ## Week 1: Intro to content creation + content marketing principles + personas 
@@ -56,3 +58,6 @@
 
 **Activity:**
 - Pick metrics you’d like to track for your content for social media, your blog, etc, and why these metrics are relevant. Put this together in a Google Doc. 
+
+## Week 8: Wrap up
+Recap and Q&A.
