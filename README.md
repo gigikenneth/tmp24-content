@@ -61,3 +61,8 @@ _Hi Future Me or Fellow Human, This was a content creation curriculum for 8 week
 
 ## Week 8: Wrap up
 Recap and Q&A.
+
+## Capstone Project: Fictional Content Marketing Agency
+As a team, set up a fictional content marketing agency with a simple landing page using a no-code platform (like Weebly), create copy for the landing page and blog posts for the agency. 
+
+**Link to project:** https://trycreativepulse.weebly.com/
